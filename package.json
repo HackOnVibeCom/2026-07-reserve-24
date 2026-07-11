@@ -1,0 +1,1 @@
+{"name":"reserve-test","private":true,"scripts":{"build":"echo building && exit 0"}}
