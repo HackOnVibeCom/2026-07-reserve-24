@@ -5,7 +5,7 @@ app from proven mechanics — then optimizes it automatically. No marketing team
 no ad budget.
 
 🔗 **Live demo:** https://2026-07-oleksandr-team.hackonvibe.com
-🎬 **Demo video (customer journey):** _<!-- PASTE YOUR VIDEO LINK HERE (YouTube / Loom / Google Drive) -->_
+🎬 **Demo video (customer journey):** https://youtu.be/ecaoWeshIp4
 
 ---
 
